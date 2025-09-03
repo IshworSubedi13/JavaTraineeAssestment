@@ -38,7 +38,5 @@ Run TaskScheduler:
 ```bash
 java TaskScheduler
 ```
-### Author
-Ishwor Subedi
 
 
